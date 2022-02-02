@@ -12,6 +12,7 @@
 <div>
 <a href="https://github.com/PaulaLuana">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaLuana&layout=compact&langs_count=7"/>
+</a>
 </div>
 
 <p align="left">
@@ -26,8 +27,6 @@
 
   <a href="https://www.linkedin.com/in/paulaluana/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/paulaluana/" /></a>
-
-
 
 
 </p>  
