@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Luana. Seja muito bem vindo(a) ao meu GitHub! Atuo na área da TI desde 2014, sou apaixonada pela área de <strong>desenvolvimento web e Ciência de Dados</strong>.<br>
+  Meu nome é Luana, atuo na área da TI desde 2014, sou apaixonada pela área de <strong>desenvolvimento web e Ciência de Dados</strong>.<br> 
   Atualmente estudo a área de recuperação da informação e sou Dev Python IA na Dell Lead.
+  Seja muito bem vindo(a) ao meu GitHub! 
 </p>
 
 
