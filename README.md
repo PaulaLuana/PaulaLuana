@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:luana@alu.ufc.br?subject=[GitHub]%20Source%20Han%20Sans" target="_blank">
+  <a href="mailto:luana@alu.ufc.br" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
 
   <a href="www.linkedin.com/in/paulaluana/" target="_blank">
